@@ -11701,7 +11701,7 @@ textarea.form-control-lg {
 /*************************** Pillar Styles ****************************/
 body {
   font-family: 'Roboto', sans-serif;
-  background: #F7F8FA;
+  background: #e7fffe;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #a2e6ff;
@@ -11772,7 +11772,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .resume-header .picture {
-  width: 22px;
+  width: 223px;
 }
 
 .resume-header .name {
@@ -11923,7 +11923,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .resume-lang-name {
-  color: #3f84b2;
+  color: #abfff9;
 }
 
 .footer .fa-heart {
@@ -11971,5 +11971,4 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
     flex-direction: column;
     align-items: center;
   }
-  
 }
